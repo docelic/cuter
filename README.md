@@ -6,7 +6,7 @@
 
 Current code causes a bug: https://github.com/crystal-lang/crystal/issues/6158
 
-Cuter is an "overlay" for Papierkorb's [cute](https://github.com/Papierkorb/cute) which modifies some of its built in behavior. Specifically, it changes or adds the following:
+Cuter is an "overlay" for Papierkorb's [cute](https://github.com/Papierkorb/cute) which modifies some of its built-in behavior. Specifically, it changes or adds the following:
 
 * Blocks return Bool instead of nil
 * Signals know their @parent
