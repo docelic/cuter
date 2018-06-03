@@ -8,13 +8,13 @@ Current code causes a bug: https://github.com/crystal-lang/crystal/issues/6158
 
 Cuter is an "overlay" for Papierkorb's [cute](https://github.com/Papierkorb/cute) which modifies some of its built in behavior. Specifically, it changes or adds the following:
 
-* blocks return Bool instead of nil
-* signals know their @parent
-* signals support one-time trigger via @listeners1
-* every emit() also emits signal "event"
-* every on() emits signal new_listener unless new_listener itself is added
-* every off() emits signal remove_listener
-* emit() and emit2() mimick _emit() and emit() from Blessed
+* Blocks return Bool instead of nil
+* Signals know their @parent
+* Signals support one-time trigger via @listeners1
+* Every emit() also emits signal "event"
+* Every on() emits signal new_listener unless new_listener itself is added
+* Every off() emits signal remove_listener
+* Emit() and emit2() mimick _emit() and emit() from Blessed
 
 And some other changes are included or are coming up.
 
