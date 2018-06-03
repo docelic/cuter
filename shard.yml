@@ -1,0 +1,13 @@
+name: cuter
+version: 0.1.0
+
+authors:
+  - Davor Ocelic <docelic@crystallabs.io>
+
+crystal: 0.24.2
+
+license: MIT
+
+dependencies:
+  cute:
+    github: Papierkorb/cute
