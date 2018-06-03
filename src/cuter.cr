@@ -179,4 +179,3 @@ module EventEmitter
   Cute.signal event(type : String)
 
 end
-
