@@ -4,6 +4,8 @@
 
 **Project status**: `[X] Being developed  [ ] Usable  [ ] Functionally complete`
 
+Current code causes a bug: https://github.com/crystal-lang/crystal/issues/6158
+
 Crystime is an "overlay" for Papierkorb's [cute](https://github.com/Papierkorb/cute) which modifies some of its built in behavior. Specifically, it changes or adds the following:
 
 * blocks return Bool instead of nil
