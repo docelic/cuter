@@ -2,7 +2,7 @@
 [![Version](https://img.shields.io/github/tag/crystallabs/cuter.svg?maxAge=360)](https://github.com/crystallabs/cuter/releases/latest)
 [![License](https://img.shields.io/github/license/crystallabs/cuter.svg)](https://github.com/crystallabs/cuter/blob/master/LICENSE)
 
-**Project status**: `[X] Being developed  [ ] Usable  [ ] Functionally complete`
+**Project status**: `[ ] Being developed  [ ] Usable  [ ] Functionally complete`
 
 Current code causes a bug: https://github.com/crystal-lang/crystal/issues/6158
 
